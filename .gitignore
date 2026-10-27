@@ -1,0 +1,5 @@
+build/
+spike/out/
+bench/data/*.xml
+!bench/data/.keep
+*.o
