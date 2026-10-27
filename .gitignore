@@ -3,3 +3,6 @@ spike/out/
 bench/data/*.xml
 !bench/data/.keep
 *.o
+spike/hello_host
+spike/hello.c
+spike/hello.h
